@@ -21,5 +21,3 @@
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=terraform" />
   </a> </p>
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KristiyanP-03&theme=dark&line_height=40&hide=css&bg_color=20232a)
