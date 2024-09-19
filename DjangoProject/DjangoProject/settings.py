@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'DjangoProject.wsgi.application'
 #     }
 # }
 
-## Database with postgres #NEED ADAPTER# Terminal: pip install psycopg2
+## Database with postgres #NEED ADAPTER# Terminal: pip install psycopg (and psycopg2, and do not use long and complicate dirs)
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
@@ -133,7 +133,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
-STATICFILES_DIRS = [BASE_DIR / 'staticfiles']
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
