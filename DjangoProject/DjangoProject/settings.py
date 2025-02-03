@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'DjangoProject.app',
+    'app',
 ]
 
 MIDDLEWARE = [
@@ -80,7 +80,7 @@ DATABASES = {
         "NAME": "projectdb",
         "USER": "kristiyanpisev",
         "PASSWORD": "djangoproject01022025",
-        "HOST": "db",
+        "HOST": "127.0.0.1",
         "PORT": "5432",
     }
 }
