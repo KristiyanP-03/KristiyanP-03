@@ -19,5 +19,4 @@
   <img src="https://skillicons.dev/icons?i=dotnet" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=terraform" />
   </a> </p>
